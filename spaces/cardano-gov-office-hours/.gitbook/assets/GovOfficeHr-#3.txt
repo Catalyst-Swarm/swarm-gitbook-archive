@@ -1,0 +1,317 @@
+event or recording in Progress free to let me know in the comments and I would really really appreciate it if you could share out this space so more people can join us in today's cardano governance office hours space
+ yeah so one of the coolest things that I saw was another Workshop
+ that was hosted by cardano ambassador from Ghana so they had a wonderful Workshop in tamale in Ghana and I'll just now share the post in the space so you can take a look I mean one of the things that really astonished me of events in Africa it's just how many people show up to those events
+ right it's it's it's really astonishing to me that that many people
+ have such a passion for cardano or just a passion for I don't know making their lives better in a way right so as you can see they had like over 60 attendees at that Workshop everyone with a nice t-shirt I wish I had that t-shirt looks really cool so yeah shoot shout out to to Mohamed and his team from Ghana who hosted that workshop and I think it's not the first they already did quite a few and I think all so a CIP workshop last year
+ so they're doing this the cardano community definitely check out what they're doing they have great events all the time and yeah it's it's really important to celebrate those those individuals right and the people that really
+ join those events and try to learn and
+ try to participate so yeah that was one of the coolest things that I saw
+ and then today really really I think
+ we all know now about Mike hornets from Abel pool he's the governance wizard governance Champions Sancho net dictator former Central dictator I have to say so he was removed from power but all jokes aside mic is a great guy and he today shared his new infographics
+ and I also now just shared these in the space so make sure to check them out
+ at the beginning if you take a first look at them they might seem a bit complicated but
+ it's about a complicated or somewhat complex topic it's all about governance protocol parameters
+ so as you all know right we have different parameters on cardano that basically guide or that basically tell us how the system works so we have the infamous Cape parameter that basically says how many pools ideally we should have on cardano please don't kill me on the exact description here and there's other parameters for example like the transaction fee or the block size stuff like that right so and and for the new governance parameters for the new phase of cardano we basically also need new parameters
+ and these parameters are everything from the Fresh holds
+ and what kind of thresholds as you know in the new governance model described in CIP 1694 you have seven different governance action types
+ so that's everything from a simple
+ simple I mean depends how you how you how you see that but treasury withdrawal for example is a governance action or parameter changes the governance action and all of these have different kind of thresholds and thresholds for basically how many how many Ada how much Ada needs to vote Yes or No basically yes to pass a change and these infographics from my explain that in details so the poor job that I just did now explaining it you probably have it's probably way better if you just take a look at the infographics and look at the governance protocol parameters there
+ yeah and it's it's awesome to see and also I know that you know it's very important to also mention that Mike got a grant from intersect for these governance protocol parameter infographics so huge shout out also to intersect for enabling Mike to produce this high level this high quality content
+ and yeah I definitely will check them out later when I have some time but
+ yeah I mean Mike is doing great job and
+ yeah they're just awesome so feel free to share them use them
+ and
+ yeah Mike is always happy for feedback as well if you if you notice something that should be changed or should be different
+ cool and then one final thing that I would like to share or that I would like to mention is
+ yes today I took some time to really write down and
+ reflect a bit on the first quarter that we had in 2024 so
+ and it's actually if we're talking about cardano governance right sometimes it's just we're all so busy there's so many things going on and it's it's sometimes also good idea to just you know hold on just slow down
+ take a breath and look at what we have already achieved in 2024
+ and
+ it's really astonishing
+ so I tried to write on a short article of what has happened and I also included a timeline of the different events the different let's say Milestones during these first three months of 2024 and I put that in in the Forum Post in the cardano Forum
+ yeah and you know to me it's just it was so cool to see all of the events
+ all of the improvements with the governance features actually on Sancho net Sancho net is the governance testnet where everything right now is being where all the governance features are being tested
+ and yeah there was a huge progress I mean just at the beginning of this year we
+ as a community received access to the gulf tool from iog and intersect and the graph tool basically allows anyone that wants to and does not have the time or the necessary skillset to set up a cardano node and play around with the command line interface
+ theft will basically allows you to be a Dara to register as a deer app to vote as a deer rep and to
+ yeah if you just want to delegate to one to do that with a nice user interface and that's
+ we needed for governance right I mean it's all cool and nice if we can use the CLI and everyone has their node running but we really need accessible tools that make it possible to
+ um participate in governance and to be part of the conversation even if you're not
+ I don't know I develop a devops expert or a developer you know it really needs to be accessible so that's what kaf tool did and I know that was all so shared in a newsletter by intersect that they're working on a few really really cool improvements to the golf tool
+ so maybe you notice that I didn't mention yet that you can submit the governance action
+ which is true right now you cannot do that but I think very soon
+ I try to find out what soon means but I was told that the marketing team of intersect would kill the developers if they tell me when that is so I don't know when that's gonna happen but I think very very soon that they will update the golf tool to have very cool new features and I'm really looking forward to that because right it's it's nice and cool that you can
+ register as a deer app and vote but it's all going to be really important to understand how you can submit the governance action how that process works really I mean it's straightforward it's it's no rocket science really it's just feeling out some parameters some values and then they're getting submitted to change to the to the blockchain
+ and yeah that's very simple I mean it's a bit more complicated but if we want to break it down it's it's like that
+ yeah so really it was it was great to see the workshop in Ghana the
+ infographics from Mike and then also
+ I think it's just really cool to see you know what has happened in the last quarter and now that now that Mike released these infographics I definitely need to update my quarterly report because that's definitely a milestone event
+ so already I already got it to do for for tomorrow or for later in the week
+ yeah I mean if anyone wants to join as a speaker if you have a question about governance if you just want to chat feel free to request speaker
+ I think
+ we actually actually want to invite someone to speak because he told me that he wanted to speak so let's see and it's again about the workshop which is very cool yeah
+ all right
+ Hey Thomas how are you doing
+ are you doing fine
+ I'm good thank you very much all good I heard you you have some news to share or some some information that you would like to yeah that you would like everyone to know about
+ yeah so building on what you've been talking about he's been talking about workshops and
+ and how to get involved and how to learn about governance and cardano
+ I have a couple of workshops coming up real soon that I wanted to invite everyone to attend first one is coming up this Friday actually and some it's March 29th
+ at 7 p.m. UTC
+ and it will be focusing on the app code of conduct which is something that myself I see Jose In Here Also I signed from either North Pole Adam Rush
+ uh Utah and
+ and Eco from who's from Ghana has been working on for the past for the yeah for the last
+ half year almost we've been working on improving the Europe code of conduct document and we've been hosting workshops all over the world five of them in total and the final one in that series will be the online Workshop that will be doing this Friday so if anyone wants to join and
+ and have a listen at what we got come give us some feedback and Chris criticism and give us some flowers whatever feel free to join we appreciate the we appreciate everyone who wants to join and hope for a lot of honest feedback
+ yes so that's so that's the one coming up this Friday and I opened up for
+ a workshop that myself I stand and Beatrice is doing
+ in to do the day after Builder Fest so if anyone is attending Builder Fest there will be a deer Workshop there
+ it will probably have a little bit different format maybe a little bit more Tech focused since it is related to build the Fest
+ but it will be yeah like the day after Builder so April 25th
+ and then I also have a couple others that I want to reach out for because there was announced today actually
+ Oscar from South Korea posted that he is so hosting a Voltaire seminar in Seoul in South Korea April 27th
+ so two days after we are doing the one in Toulouse he's doing one in Korea
+ it will be
+ I believe it's going to be part darrup part
+ parameter committee related
+ I'm not 100% sure as a protocol parameters yeah that's what he's so it's going to be part Dara particle parameters
+ focused seminar in insole and knowing what knowing what Oscar is capable of putting up that's going to be blasted over Workshop if you're able to attend that
+ so yeah and all of this is happening like within the next month and there are more coming up later but I'm not gonna Focus too much on that yet I'm just going to mention that there will be another one in London and we are also gonna host a workshop at a very evil
+ and all those that I'm hosting are sponsored by cardano foundation and so thanks for that
+ yeah
+ that's it
+ not that that's awesome thank you so much for first of all for taking the time to to host these spaces right I mean even if you are funded right it still means that you and your team need to be at these venues at these events during those times travel to other countries so that's yeah that's really appreciated and I think we definitely need more of that and I think we're going in a right direction here from funding from intersect from the cardano foundation a lot of I mean the workshops you mentioned initially were founded by Catalyst right it's yeah that's that's really cool
+ yeah I think it's first of all I think it's important to have those physical but also online events especially the physical ones I think are the ones with the most impact but events overall we we need to have that it is like you said earlier governance is a tough cookie just sell it is it is a lot it is deep
+uh but once you get to know it a little bit it's actually not that intimidating
+ you just need to find your Niche you just need to find what you are interested in
+ and there are so many topics to to touch upon within governance and I'm pretty sure that everyone has something they are interested in within what cardano governance is
+ so we just we just need to we just need to have
+ someone talking about it and educating about it so so people can find out what they're actually interested in
+ yeah I totally agree with you
+ and the way I see it is right knowledge is power and the more you know about the system the governance system the better it is for you in the long run because governance basically the system were setting up here should do nothing more than help us achieve our goals right in a better way
+ so that
+ people can get access to different funding methods we had a cardinal treasury or that we can optimize the Cardinal parameters yeah in a shared way right not just one entity or a group of entities can decide but it's more of a community decision and
+ I think this is also sometimes where people forget if they say governance is boring like why do we talk so much about governance why do we not focus more on actually marketing and and getting more users and being more yeah building more cool applications I mean nobody's saying that that's not important right but we are now really try to establish these
+ the framework for making all of these things that I just mentioned even more successful
+ or basically you build this Cornerstone where everything else is just possible through that because if we have a robust governance system that is capable of
+ adapting to Future
+ future challenges right then we are ahead of a lot of different ecosystems
+ because right the thing is it's nice and cool if there is a single entity One Foundation or one I don't know group that develops everything and that is making Fast decisions and all of that right but what happens if for whatever reason that entity is gone right or these group of developers is gone or whatever
+ then you're left again with
+ first of all no one and you need to somehow make make sure that the system keeps on running and on cardano we already have that right we have the stake pool operators all across the world that are running the network so even if for whatever reason iog or the cardano foundation or even in Margo are gone the network would still keep on running right that's cool right that's great that's step one and now we just need to create the system that will also allow progress and change
+ and updates and everything treasury strolls without these entities driving the car or driving the initiative it really needs to be a community thing right
+ and
+ of course I mean if we talk about the community it it's going to be those people that are really active and those people that care about ecosystem I mean
+ that's at least that's my hope right
+ but yeah I'm I think I keep on rambling here a bit I see that
+ Santo requested speaker
+ hey Santo are you doing
+ oh hey guys thanks for letting me up
+ quick questions so I've been in the intersect Discord for a while now and we've been in a forum
+ group discussing a potential working group
+ and we've submitted our application and we're still waiting
+ I follow up on that processing
+ yeah yeah that's that's a good point I think when it comes to working groups it's it's really best to reach out directly to the intersect team so I think apps is always in the Discord so he's he goes by the username nagatoshi on the intake Discord or
+ yeah Jack Jack is always a good good person to reach out to and I think also ah speaking of Jackie just requested speaker
+ um yeah so maybe maybe he can answer your question directly hey are you doing
+ maybe I get it right here
+ yeah so maybe I can try and help what was the working group that you requested
+ um well we named it fundraising but our our Forum right now is called
+ enhancing fundraising for Carlos so what we're trying to do is do a you know a workshop for founders
+ leverage that yeah yeah leverage off of my experience of raising venture capital in the past so
+ this really have to be about Venture Capital because
+ yeah so favorable but
+ but what we're going to do is you know I just want to help Founders you know
+ cement truck um
+ just help founders
+ maybe you know understand what VC means I understand what an investor means understand what Equity means understand what you're giving up I understand the control issues and all that I think I'm just they don't
+ okay no problem let me just I'll take that away and I'll speak to the to the guys that are triaging all the requests I think we've got like 20 or 30 different Workshop requests sorry not workshops working groups in the backlog to make sort of process and work out the best home for them sometimes working group doesn't have an actual home and maybe that's your one for example and what I mean by natural home is that does it roll up to existing committee intersect and sometimes it won't and that's fine you can have work groups to just idea on different topics doesn't happen necessarily roll up in a clear way but it could be that so leave it with me Santa I'll let you know I'll check out your application I'll see where it's at
+ right so
+ awesome thank you so much Jack that's great
+ and yeah in regards to
+ like when people have ideas about working groups I think there's a form right there's a form on the on the Discord in the FAQ section I think you can find it there
+ and definitely don't be afraid to reach out to the team they're really approachable they're great people yeah and and I think the more activity we have intersect the better so bring your ideas joining intersect if you can I joined it really early on and it's yeah it's it's been great to watch them grow and change and adapt
+ so it's not an easy job right when you need to remember that bootstrapping and organization like that that is a lot of work and yeah it's it's really great to see how they're changing and adapting
+ you joined us hey how are you doing Jenny what's up
+ hi Nico yeah just finish my lunch no finished my intersect Town Hall
+ shovel shove your shove my lunch back in here talking over nest with one of my favorite peeps here and cardano what's happening go
+ thanks for hosting this I actually love the fact that you take it back to like this very basic basic premise of cardano right which to me personally and my you know personally experienced was
+ what really opened up my eyes to like wow this could really make change like
+ the change that we want to see right for me that governance side as much as I dreaded I try to make like looking for me I have come across people like you you know you can't have fun while you're solving problems you know governance exist because we have problems to solve there are things that we agree on and we don't need any management there we don't need any process to get along it just happens but when there are things those are so many different opinions and intricacies and
+ a good
+ structure for governance allows for us to be able to go through this times where we have decisions to make and differences of opinions and perspectives
+ you know an easy thing to manage and aggregate or hard one you know sometimes she gets stuck I means your governance structure is not that great so the more perspective that we bring to the table and that's why I'm so vocal about like telling everybody go to intersect you know that org sign up you'll find your way there you know and governance is really happening there and that's the reason why I do it not because I'm chilling interesting because this is where we're having this conversation and where we need to you know
+ just kind of gather for now to help us move into this new wonderful possible world of possibilities that for me personally I've been waiting for for so long so you know shout out to you for doing this every week I really appreciate it and I love your perspective
+ thank you so much no it's its first of all the privilege to be able to do that right and to have a conversation with great individuals like you Jack Thomas Santo and everyone I mean that's that's like the best part of my day when I can do that and when I don't need to think about processes or design some
+ I mean design not really I'm not a designer but when I need to think of other stuff
+ so this is really really great and one of the things that's
+ right when we talk about joining intersect or joining the conversation it's not so much about you know shielding something or as you said right it's more about we need this coordination layer when it comes to governance right because in the end if we have
+ pure chaos or if we have conversations all over the space right which is okay it usually makes everything go even slower
+ and slow is not bad right I mean it's it's okay but this coordination layer that we build here with intersect and with all these great tooling so we'll just allow us to be more effective when it comes to governance right and that's all one thing that we need in the future when it comes to Derek's or also the Constitutional committee I mean it's not going to be the case that people will have to time to read through governance proposals governments action proposals every day for eight hours or something right it's just not feasible
+ um and I really think we need to be
+ one like we need to be as effective as we can but without sacrificing all of the the fundamentals of cardano right so
+ when it comes to
+ research due diligence formal specification and all of these other buzzwords right it's really it's really about how can we be effective without losing what makes us yeah you unique as a community and unique as a
+ as an ecosystem because I also don't want to lose you know I don't want everything to be completely optimized and everything happens with AI Bots like AI governance Bots or something I think
+ a healthy ecosystem a healthy governance system also lives and thrives from the conversations that we have
+ right and these these spaces like the intake Discord or even discover and space should be about
+ open conversation
+ in a respectful in a very
+ respectful manner right we're not here to shit on each other's ideas or on each other's perspective but we're really here to learn from each other
+ and also how can we really make cardano a success right how can we
+ because that's the end goal right we need to make sure that cardano as an ecosystem thrives and yeah succeeds in what we try to do so I really think that you know it's not one over the other when it comes to governance or marketing whatever it is really like
+ how can we do that together to make the ship the ship is cardano go faster
+ and that's that's how I really see it
+ and one question that also I asked before before that space started if there are questions or anything and
+ I stand from Ada North Pole actually
+ brought up a very interesting point he was asking what can we do to make cardano governance even more mainstream
+ and I'm curious what you guys here on the speaker panel think about that if you have like
+ yeah should governance be even mainstream
+ what do you guys think about that
+ and the Army jump in the equator for like a minute
+ and I think this is how this is some of the feedback that a few people have been having on Twitter recently around marketing overall
+ and I think what governance does or presents an opportunity for good Arnold that it is doing something that hasn't really been done
+ fully in its full design the polkadot I've got done some really good stuff
+ and but it's still not in a complete way that I was approaching things particularly with a development side of stuff and how the treasury gets accessed
+ to sort focus on the next five ten years and all that really interesting economic side of how could I know who's forward so I think that's where governance is something that
+ positions could allow as a USP really it's a big USB
+ community's and different Industries can look to different blockchains and they can look at the blockchains that are governed the most effectively or the most centralized and all of that right
+ so I think it's is a lot more marketing work to do
+ then we can do it simply at events and a bunch of other press and media opportunities but really has to be a coordinated effort I do want to start for working group by the way on marketing in general and inject and I'm happy to sort of support that I know there's a bunch of other
+ a big sort of community players that want to get involved in that too so I'd love to be a part of that
+ but that's more generally I mean that's marketing and more broadly but I think governance definitely is a USP for cardano the amount of effort and energy that people put into it demonstrates that it is something that we're becoming increasingly proud of
+ as a as a design
+ of course it has its flaws and of course no governance system is perfect for a full stop but the effort and energy in the room to improve and to keep iterating on it I think is just something that's really powerful and when outside industry is look at
+ blockchain as a solution to whatever they need to solve
+ they will they will look at the blockchains that have the most effective government system so they can make it work for their industry and what about all that good stuff
+ so anyway I'll stop there I think that's where my head's with it
+ I love that thank you so much for sharing your your thoughts and what you mentioned about governance is a USP for Katana that's that's really true and
+ that's I think one thing that also
+ will really attract the sort of
+ crowd I mean it's maybe not the most
+ yeah the coolest thing or whatever you might say but it is really important especially for
+ for organizations and let's say Legacy businesses and
+ all of these entities right that look at crypto just as the number go up crowd and the meme coins and everything and yes it might be that cardano from from that perspective is a bit more boring in a way but of course we also have our own meme coins and our own drama every week but governance and a stable framework right where you can be sure that
+ I know how the process works on how cardano will be updated or how we can do parameter changes that is very valuable for these companies because they're what they're doing is risk assessments right did they do risk assessments for I don't know going to the toilet or anything but it's
+ for them something like this is really really important and I don't have a big corporate background but I worked for a big bank and like a leasing company and for yeah it was all about managing risk right and if we compare that yeah go ahead sorry no no sorry I interrupted you but I was just gonna agree you know particularly when they look at governance from a regional perspective most Industries look at
+ so governance and Regulatory things from the
+ perspective of where they are right and I worked for some big telecommunication companies in the UK all they cared about was the UK and in fact fair enough that's with their customers audiences are but what we have as an opportunity as a community is just Global can we govern a global social and infrastructure layer
+ can we do that and you know with all of the different diverse needs of the global communities have I think with demonstrating that by the workshops in Garner by everything that's happening in Taiwan and up in Norway and the ratification the Constitutional Convention in Buenos Aires I mean that's incredible right the space that we're going to be tapping into across the globe
+ it's not been done before so that's where I'm really excited it's scary as well you know because with charting
+ paths haven't been tried before
+ but I definitely have a lot of optimism for the space where heading into
+ that's awesome yeah and and really wanting that you know I
+ when I was starting to work on this whole governance discussion when I read I think cfp 694 for the first time last year sometime in January or something wow it's been a long time one of the things that I was thinking or actually that was told to me like think about it like
+ if you participate now and
+ in an ideal world like let's let's say everything works out the way we wanted to work out how cool would it be that you can tell your kids and your grandkids like hey your grandpa was working on the cardano Constitution or they were working on the cardano governance framework that's now in place and yeah cardano is like the the main blockchain and yeah just this fall right I mean it's a bit yeah how would you say that this vanity but it's still a very very cool idea to think about you know the Legacy that you leave behind and if you put the effort in right now for that system and for that in general when it comes to to blockchain right it's
+ that's something that hopefully we can look back at in 50 years or 30 years and be like really proud of what we achieved here
+ and Jenny you have your hand up for a very long time I'm very sorry
+ that's not a real handico don't stress
+ that's kind of good
+ okay mainstream 100% like you asked me does it need to become Main Street and I think yes
+ absolutely you know you wanted to become a normal thing I conventional things something that everybody's like used to
+ participate in one way or another to whatever extent it is you know I think the opportunity in the important thing here is like you know if you if you could be mine what is an expert right for really we're like oh well just a really back to like those 1694 Workshops the reason why I started hosting those a year ago this because I remember listening like seeing conversations taking place on Twitter about this CIP 1694 and when you ask questions I was just felt so
+ an unaccessible like it was very intimidating and people started to feel really panicky like What's Happening Here We why is this happening closed doors it's like it's not closed doors it's in GitHub and everyone was like what the heck you know so when when something is not mainstream means it's not accessible that means is probably probably lacks perspective
+ from wherever the decision are being made
+ and that's problematic right so you want inclusions that's what you want it to be accessible and you want inclusion and in the only way for us to really achieve maximum inclusion and participation is to strive to try to make to create this Stepping Stones to Paving those roads bridging those those you know those gaps you know creating Landings across this different
+ places where this governance takes place so more people can bring and take information from one place to the next because that's the only way we're going to get better at it you know an expert is a person who has made every possible mistake in a narrow field so
+ you need you need people exploring and to their level to the level of their comfort so if we create like the right kind of stepping stones and the right kind of Landings for people feel comfortable like this is this is my place this is where I want to kind of dig deeper and I don't want to do any further than this but you're part of a bigger a bigger structure that requires everybody to participate in their own way so yes if it's mainstream means that it's easy in and out but it's a normal thing to people talk about the people can converse about it you know you can have conversations you can have you know to whatever level you you want to engage in and I am all for that I worry when we don't have that's what helped people let governance into your heart you know it's a funny thing but when you're creating your own governance this is how you have to see it you have to it has to come from the heart if you're here to create a structure like if it was up to you
+ what how would you create this you know and this is an opportunity this is the conversations that we're having here you know and the more people participate the last a few they have been here can can get overcome by ego and that helicopter parenting that only I know how to run things around here kind of thing which is very common and governance so more people
+ for sure
+ absolutely love your perspective that's yeah that was great thanks for sharing Jenny and Felix I think you first of all welcome how are you doing and you had your hand up
+ yeah can you hear me
+ yeah super super well
+ actually yeah doing all fine yeah definitely to agree with Chinese settle also from another perspective I think one thing what is quite difficult in governance at General is to get enough let's say engagement right and that's nothing what we have only as challenging that's generally a little bit problem so I look on it from the perspective to say when we say mainstream governments what is actually mainstream in this regardless say okay the largest amount of participants in this regard
+ and from this perspective blockchain itself it's already let's say governance mainstream because each blockchain is on governance system right as soon as you open your wallet and as soon as you get some tokens and antiques with the protocol you agree or write to the let's say fees for example on color right you don't have to let's say sign anything for this
+ and when comes to governance engage let's say it's quite easy a lot of people and to me and nft or whatnot
+ governance it's like the shitload of Entry barriers right which makes it really difficult and literally takes minimum three years to get somebody from 0 to let's say a position where they feel comfortable to really go hardcore in government
+ and on this side I often like
+ say almost the always the most people engaged in government is the best I'm not sure actually really like for example voting right yes you try to go with the measurement to say as more people participate as better
+ though if you can't ensure that this large amount of people have any ideal what to vote on and I have no idea that just vote because while its feasible not sure if there's actually a good let's say measurement and this workout right so to say don't measure quality by quantity and just say as well okay what does not mean for Holika and his main to actually amazingly achieved already in governance right
+ and look on okay where are we actually lacking and how can we come to high quality decision-making without falling into the Trap of
+ targeting as many people as possible and then maybe opening a backs of condura right because yeah if 900 people say go kill this person and 10 reason of people say and now that's a stupid idea well yeah
+ now that that's a very good perspective right and I'm very valid concern or very well it may not even a concern but just something you bring up that's very interesting right that you know if let's say that the masses are uninformed and easily manipulated by I don't know popular yeah popular individuals let's call them influencers or whatever right we could quickly end up in a sub-optimal way but
+ yeah it's it's a difficult conversation and I'm curious if
+ HD 5000 you want to say something about that or do you have another question first of all hi are you doing
+ hi how are you I was just one to shine in a little bit about what Jenny said about how letting governance into your heart I like that
+ but I've I went to see Workshop in Chicago then I went to the Derek workshop and indy
+ again I just just to know to explore to find out more about governance
+ um and somebody said something at that Workshop in Indy which really stuck with me they said some people are going to want to
+ have a little amount of D reps
+ and some people are gonna want to onboard as many deer as possible and that really like stuck with me like yeah like you want to control the power do you want to open it up to whoever
+ and that's what I'm like oh shit this is like real and to the concern about the influencers the influencers will come
+ but if you delegate to the influencers you're all going to live with their consequences if they're not informed myself I I've been talking workshops I've downloaded in governance and
+ I don't have all the answers either
+ at the deer rep in Indy they came up with
+ a good idea now idea you might call it it's like a group of people
+ to be a dealer so a group of quote-unquote experts
+ and I kind of I kind of like that too but even if you're not in this panel of experts you can be your own deer up your private so so just because you're near doesn't mean you have to represent anybody you could just represent yourself and if obviously you're not I mean you may have a lot of ADA but I mean
+ um yeah so I just wanted to throw that out there that that it is accessible but it is time consuming and and money I mean I go to I have been to multiple things and it's at my cost you know nobody's paying for me but
+ but I enjoy it
+ awesome yeah thanks for sharing and exactly right it's it's a difficult discussion and now when I listen to what you said one of the things that I really strongly believe in is that
+ even if influences get a lot of power in the beginning right and even if we have just a popularity contest
+ as soon as they start to make decisions that are only in their own interest
+ I strongly believe that the majority of people will not tolerate that so if these people try to
+ just make money and put in their own Pockets I think that's just not gonna fly with the majority of people right so
+ what I'm afraid of it or what I'm concerned of is that the Reps that are going to get the most the most delegation are those
+ that will promise to their delegators some sort of reward or some sort of additional rewards right so how can you think about that that when when a drap
+ when you delegate to me or I don't know 1000 Ada you will get two additional data to your staking rewards and then you know as a as an ADA holder with just a few hundred Ada or if you found a you will be thinking okay my my stake doesn't matter actually so I'll just do that and take the money but then again right as soon as you see that that group or that that deer that you're delicate to is not really acting in your best interest which means in cardano's best interest
+ then you will think about moving your Stakes so I think these will be growing pains and chat and lessons that we as a community we will have to learn right and the more we are aware about them the better it is and right we need to be aware of the risks and we need to be aware of the benefits of this system and I think the benefits definitely outweigh the risks
+ because as you said we need to let governance into our hearts and that is I think the most difficult thing because we are at least from the majority of the world we're not used to
+ participate in governance at least in like where I come from from Austria in the EU like I vote every four years then there's the election every four years and then the representatives they just to do whatever they do and somehow you know it's still okay to leave here right which is fine so
+ that's I think that's what most people know about governance or they even they cannot even participate at all right if they live in a regime that does not allow for free elections and participation they don't they have no association when it comes to governance or what that means so
+ we really need to
+ change the way people think about governance and that is the most difficult thing right we need to change Norms when we need to change biases that people have which is very very hard to do but there are fairly dirty it feels disgusting and we have to get used to that
+ exactly Jenny you have your hand up I'm sorry I was rambling a bit no no this is actually a great because you know like the whole like governance your heart that's why it's like the whole funny thing about it because it's so true like you said it's so hard but you know at some point to kind of clarify where are you and in here why are you engaging with something in the first place right a challenge and and if you know there's a line to something that you're here for greater costs then you're pretty much always kind of going and in the right direction even if things are challenging you know
+ but what I wanted to say is that
+ power to the people
+ in this case will be
+ when I feel like the majority of the community understand that they know how and that there's a path
+ including the tools that people answer to during the workshops last year when we had this very intact conversation about the scary thought of governing ourselves people were like we gonna need distilled and this tools tools and intersect is actually they still have this open category where you can go and look at the tools the community want and see if you have something to bring to the table to make them happen because
+ it the power of people knowing and understanding that they can be their own D reps and if we have the tools that could allow for us to be one and we if we need to do this is going to be massive in terms of solving what I consider to be a good way to battle that problem that you just mentioned you go right which is like you know all this power to the same day reps and and then we're still kind of like you know dependent and which is fine if it's working if we have a good day reps then you you could focus on other things right and that will be ideal when we have a system that where people do what they're good at and they are happy to do what they do right
+ so on the meantime people understand and they can be their own D reps and how they can become their own dear reps it's something that I think is is as powerful as when we were very
+ diligent about the understanding making sure that we spread the word around understanding of the importance of spls right and why I said important that we have a thriving ecosystem of FPS opening up and shutting down and there's like always like all kinds of like
+ healthy you know system with spoz going on around I think it's going to be the same with d reps and if you want to contribute to it you can be your own derp and if you're in a state where things are very shity then individually people could take a stance you know and that's always a way to fight back if you will so there you go
+ that's what I will want for people this is what my what I mean when I say mainstream it's it's just there's gotta be a way to understanding I always have a power to do something if I want to and it really means that you know
+ and hopefully being a deer is the same as as a sunshine it took like
+ like once I was all set up with my Corning he's the best I mean I became a director and delegated to myself and within like five minutes it was like super easy
+ yeah that that's true I mean I I just think it's gonna become even easier you know in the future I really think that probably a lot of wallets will integrate these features where you will be able to even register yourself as a Europe
+ and of course in the future you will be able to similar as you right now can delegate to different spos with your wallet with your preferred wallet you will be able to do that for the Reps and intersect provided grants to the different wallet teams to actually integrate with CIP 95 which is exactly explaining that so it's
+ I think the goal is really what we have now on Sunshine it is great but it should be even easier where you don't need to I don't know go to a website connect your wallet that is our right I mean with every step you you lose people so the best is probably if it's maybe in your Vsepr voltage you can directly register quickly as a direct vote on a governance action and then if you want to deregister again you can deregister right okay it needs an Epoch for you to be registered but regardless of that it will become I think even easier in the future and yeah that's that's the power of the government system that we have right that you can at any moment right to participate or not participate right if you don't want to don't it's fine I mean it's a public permissionless blockchain where nobody's forced to do anything if you want to not do anything that's completely okay right
+ but then again you will also not be able to complain about it at least that's my opinion I mean you cannot complain but yeah if you're not trying to change something and just complain yeah I mean then then you're just wasting your own time I think
+ no just kidding Santo you have your hand up
+ oh yeah um
+ wow it's probably
+ at this laid out right now I know you're only got an hour but the topic of I get my talk to people in my own community and even my own concerns about governance
+ is cardano trying to be a new virtual nation state or is cardano trying to help other
+ states
+ government
+ big topic I know but I think
+ trying to frame that question
+ I think a lot of people
+ get confused
+ yeah that's that's a good question and maybe something you know that
+ and there is no real answer for that I mean that's really up to the people who
+ were participating in the whole conversation and not just in the governance conversation but for cardano in general right
+ because we had the cardano or we still have the cardano roadmap from Byron to Voltaire right when it's about now we are let's say at the end of the initial cardano roadmap but what's what how does the future look like how is the what's what's our next goal after we deliver decentralized on chain governance right and I think this conversation is one of the most important things that we need to have very very soon right and
+ I think
+ then we can also really talk about this right shoulder down be considered like as a nation states or nation state as a network States sorry nothing nation state unless we buy some land or something which I think we don't but
+ it's it's a good question and maybe it can be both right because cardano is
+ the protocol that can be used as infrastructure for various specific business cases for various specific yeah for different use cases so in a way
+ right it's like infrastructure so I don't see it from that level as a network state but then again it's not just that right there are people around that there are
+ communities they're different companies building on it and relying on it so it's yeah it's it's a mix of both and
+ yeah it's a complex topic I can share I onboarded you know really good
+ family friends of mine and of course they're young but they've done well and got money and they kept ask me Chris what's it what crypto what's going on and and
+ the way I did it is I just I just took them through
+ you know the top 10 blockchains and I said well
+ it's like different countries and they all speak different languages
+ you could choose what country you want to go to of course I love you to come to cardano so I can see you you know it's just analogy right of course it's all virtual and understood that but
+ it because it's true right I mean we all can't learn all the languages and all the nuances of every blockchain I mean it's just impossible
+ and so I think everybody has that on their mind when we mentioned governance
+ how does it work am I part of
+ I mean I actually I'll stop using the world
+ and usually the word network state so you help me out a lot right because I make does make a lot more sense but it's Global right and it's
+ and yeah trying to explain it even in my kids and anybody I know gets complicated
+ yeah that's that's all true and I think right when we fall back to using analogies that's like the most normal thing to do and he's a good analogy if you think about it that way of comparing different layer one blockchains to different nations or different states right it's it's a very cool conversation and I see we're already at the hour or two minutes past the hour and I just want to unfortunately I unfortunately need to anticipate now but I just want to say thank you
+ everyone for joining special shout out to Thomas Santo Jenny Jack Felix Thomas HD 5000 I'm sorry I don't know your name but really appreciate you all joining and yeah have a wonderful week

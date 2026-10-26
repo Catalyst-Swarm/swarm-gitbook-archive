@@ -1,0 +1,22 @@
+# LATAM Cardano Community
+
+* [LATAM CARDANO COMMUNITY](latam-cardano-community/README.md)
+  * [Our Values](latam-cardano-community/our-values.md)
+  * [Our history](latam-cardano-community/our-history.md)
+  * [Funded Proposals](latam-cardano-community/funded-proposals/README.md)
+    * [FUND 7](latam-cardano-community/funded-proposals/fund-7.md)
+    * [FUND 8](latam-cardano-community/funded-proposals/fund-8.md)
+    * [FUND 9](latam-cardano-community/funded-proposals/fund-9.md)
+  * [The Team](latam-cardano-community/the-team.md)
+  * [Autonomous Teams](latam-cardano-community/autonomous-teams/README.md)
+    * [Translators](latam-cardano-community/autonomous-teams/translators.md)
+    * [Education](latam-cardano-community/autonomous-teams/education.md)
+    * [CNFT](latam-cardano-community/autonomous-teams/cnft.md)
+  * [Town Halls](latam-cardano-community/town-halls.md)
+  * [Twitter Spaces](latam-cardano-community/twitter-spaces.md)
+  * [Ideafest](latam-cardano-community/ideafest/README.md)
+    * [Found 9](latam-cardano-community/ideafest/found-9.md)
+    * [Found 8](latam-cardano-community/ideafest/found-8.md)
+  * [Treasury](latam-cardano-community/treasury.md)
+* NFTs
+  * [Colección #1](nfts/coleccion-1.md)
